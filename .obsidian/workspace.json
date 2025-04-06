@@ -20,8 +20,103 @@
               "icon": "lucide-file",
               "title": "d"
             }
+          },
+          {
+            "id": "f448cfd0be5bae4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "宅建士になるまでの流れ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "宅建士になるまでの流れ"
+            }
+          },
+          {
+            "id": "16cbf2db7276d946",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "宅建士のプロフェッショナル.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "宅建士のプロフェッショナル"
+            }
+          },
+          {
+            "id": "7f77ca2636dbe772",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "宅建業者が行う主な業務.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "宅建業者が行う主な業務"
+            }
+          },
+          {
+            "id": "d66ba060bae8f177",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "宅建士に認められた三つの独占業務.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "宅建士に認められた三つの独占業務"
+            }
+          },
+          {
+            "id": "5dfe5d6b20e5da01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "宅建業とは.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "宅建業とは"
+            }
+          },
+          {
+            "id": "bcd554f1e4537799",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "宅地、建物とは.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "宅地、建物とは"
+            }
+          },
+          {
+            "id": "f4cd0ed403c9d5d7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -165,8 +260,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f8423d2d794879ac",
+  "active": "f4cd0ed403c9d5d7",
   "lastOpenFiles": [
+    "宅建業の対象となる取引.md",
+    "Pasted image 20250406161828.png",
+    "宅地、建物とは.md",
+    "宅建士に認められた三つの独占業務.md",
+    "宅建士になるまでの流れ.md",
+    "宅建士のプロフェッショナル.md",
+    "宅建業者が行う主な業務.md",
+    "宅建業とは.md",
+    "Pasted image 20250406161740.png",
+    "Pasted image 20250406161543.png",
+    "Pasted image 20250406161534.png",
     "d.md",
     "test",
     "我是谁",
