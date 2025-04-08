@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#db  ",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -13,10 +13,10 @@
   "nodeSizeMultiplier": 3.46555989583333,
   "lineSizeMultiplier": 3.03988037109375,
   "collapse-forces": false,
-  "centerStrength": 1,
+  "centerStrength": 0.767618815104167,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1.2960219995127384,
+  "scale": 0.9215927785420683,
   "close": false
 }
