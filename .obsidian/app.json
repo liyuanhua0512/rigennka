@@ -1,4 +1,7 @@
 {
   "readableLineLength": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "spellcheck": false,
+  "attachmentFolderPath": "z"
 }

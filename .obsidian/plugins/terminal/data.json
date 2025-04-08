@@ -12,7 +12,7 @@
   "noticeTimeout": 5,
   "openChangelogOnUpdate": true,
   "pinNewInstance": true,
-  "preferredRenderer": "webgl",
+  "preferredRenderer": "dom",
   "profiles": {
     "08a28692-bf09-4003-a262-e773d9c17c4a": {
       "args": [],
