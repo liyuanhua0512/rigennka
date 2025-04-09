@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "530781dec01e00a5",
+        "id": "c858ebac0f6b26df",
         "type": "split",
         "children": [
           {
@@ -15,10 +15,14 @@
                 "id": "ed78bcaf4590ce73",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "关系图谱"
+                  "type": "markdown",
+                  "state": {
+                    "file": "作品/KK🇯🇵.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "KK🇯🇵"
                 }
               },
               {
@@ -66,11 +70,11 @@
             ]
           },
           {
-            "id": "af968a9f54e62023",
+            "id": "c1cfa666b70de55c",
             "type": "tabs",
             "children": [
               {
-                "id": "cb2022fdf0bfd4d9",
+                "id": "9f4f5142e6609836",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -100,8 +104,8 @@
                         "useWin32Conhost": true
                       },
                       "serial": {
-                        "columns": 131,
-                        "data": "eren@erendeMacBook-Air rigennka % sh update.sh",
+                        "columns": 109,
+                        "data": "eren@erendeMacBook-Air rigennka % ",
                         "rows": 22
                       }
                     }
@@ -187,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -241,12 +245,12 @@
               "title": "大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,8 +263,14 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "cb2022fdf0bfd4d9",
+  "active": "9f4f5142e6609836",
   "lastOpenFiles": [
+    "作品/KK🇯🇵.md",
+    "作品",
+    "宅建士/基本/宅建業者が行う主な業務.md",
+    "宅建士/基本/宅建士のプロフェッショナル.md",
+    "宅建士/基本/宅建士になるまでの流れ.md",
+    "宅建士/基本/宅建士に認められた三つの独占業務.md",
     "技术/k8s/cluster/controller-manager.md",
     "技术/k8s/cluster/index-cluster.md",
     "技术/k8s/cluster/etcd.md",
@@ -271,14 +281,10 @@
     "技术/k8s/index-k8s.md",
     "技术/mongodb/index-mongodb.md",
     "技术/k8s/cluster/kubelet简介.md",
-    "宅建士/基本/宅建士に認められた三つの独占業務.md",
     "宅建士/宅建業法/宅建業法の基本/宅建業の対象となる取引.md",
     "宅建士/宅建業法/宅建業法の基本/宅建業とは.md",
     "宅建士/宅建業法/宅建業法の基本/宅地、建物とは.md",
     "宅建士/宅建業法/宅建業法の基本/免許が不要な団体.md",
-    "宅建士/基本/宅建業者が行う主な業務.md",
-    "宅建士/基本/宅建士のプロフェッショナル.md",
-    "宅建士/基本/宅建士になるまでの流れ.md",
     "宅建士/基本/index-基本.md",
     "技术/k8s/cluster/scheduler.md",
     "技术/k8s/cluster/persistentvolumeclaim（PVC）.md",
@@ -286,7 +292,6 @@
     "技术/k8s/cluster/kubelet的功能、作用是什么.md",
     "技术/k8s/cluster/kube-proxy.md",
     "技术/k8s/cluster/container-runtime.md",
-    "技术/k8s/cluster/api-server.md",
     "宅建士/宅建業法/宅建業法の基本",
     "宅建士/基本",
     "宅建士/宅建業法",
@@ -298,7 +303,6 @@
     "技术/未命名/未命名",
     "技术/mysql",
     "技術/未命名/未命名",
-    "技术/mongodb",
     "z/Pasted image 20250406161828.png",
     "z/Pasted image 20250406161740.png",
     "z/Pasted image 20250406161543.png"
