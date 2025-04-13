@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "5dae5d14b15daa71",
+        "id": "5b87872090bb8183",
         "type": "split",
         "children": [
           {
@@ -17,64 +17,22 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "技术/mysql/mysql常用命令.md",
+                    "file": "作品/kk/KK🇯🇵.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "mysql常用命令"
-                }
-              },
-              {
-                "id": "38ad8f795c840dab",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "宅建士/基本/宅建士に認められた三つの独占業務.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "宅建士に認められた三つの独占業務"
-                }
-              },
-              {
-                "id": "b96de95826797bd2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "技术/k8s/cluster/container-runtime.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "container-runtime"
-                }
-              },
-              {
-                "id": "47a6fe32be26ce8f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "宅建士/基本/宅建士に認められた三つの独占業務.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "宅建士に認められた三つの独占業務"
+                  "title": "KK🇯🇵"
                 }
               }
             ]
           },
           {
-            "id": "0614573655c54be6",
+            "id": "9750b9798b60b86b",
             "type": "tabs",
             "children": [
               {
-                "id": "896636012eec5beb",
+                "id": "46c0ea5be2fafebe",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -105,7 +63,7 @@
                       },
                       "serial": {
                         "columns": 109,
-                        "data": "eren@erendeMacBook-Air rigennka % ",
+                        "data": "eren@erendeMacBook-Air rigennka % cd\r\neren@erendeMacBook-Air rigennka % vim update.sh \r\neren@erendeMacBook-Air rigennka % ls\r\nreadme\u001b[10Cupdate.sh\u001b[7Cz\u001b[15C作品\u001b[12C宅建士\u001b[10C技术\r\neren@erendeMacBook-Air rigennka % ls 作品      \r\nkk\r\neren@erendeMacBook-Air rigennka % ls 作品/kk/\r\nKK🇯🇵.md\u001b[1Ckk.md\u001b[11C文案.md\r\neren@erendeMacBook-Air rigennka % readlink -f 作品/kKK🇯🇵.md \r\n/Users/eren/Desktop/git_workspace/rigennka/作品/kk/KK🇯🇵.md\r\neren@erendeMacBook-Air rigennka % vim update.sh \r\neren@erendeMacBook-Air rigennka % sh",
                         "rows": 22
                       }
                     }
@@ -263,10 +221,15 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "896636012eec5beb",
+  "active": "46c0ea5be2fafebe",
   "lastOpenFiles": [
+    "作品/kk/KK🇯🇵.md",
+    "作品/kk/kk.md",
+    "作品/kk/文案.md",
+    "作品/kk",
+    "z/tianya_kkndme 1.pdf",
     "技术/mysql/mysql常用命令.md",
-    "作品/KK🇯🇵.md",
+    "z/tianya_kkndme.pdf",
     "技术/mongodb/mongodb常用命令.md",
     "技术/k8s/cluster/persistentvolume（PV）.md",
     "作品",
@@ -290,8 +253,6 @@
     "技术/k8s/cluster/scheduler.md",
     "技术/k8s/cluster/persistentvolumeclaim（PVC）.md",
     "技术/k8s/cluster/kubelet的功能、作用是什么.md",
-    "技术/k8s/cluster/kube-proxy.md",
-    "技术/k8s/cluster/container-runtime.md",
     "宅建士/宅建業法/宅建業法の基本",
     "宅建士/基本",
     "宅建士/宅建業法",
@@ -300,9 +261,6 @@
     "z",
     "技术/k8s/cluster",
     "技术/k8s",
-    "技术/未命名/未命名",
-    "技术/mysql",
-    "技術/未命名/未命名",
     "z/Pasted image 20250406161828.png",
     "z/Pasted image 20250406161740.png",
     "z/Pasted image 20250406161543.png"
