@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "5b87872090bb8183",
+        "id": "117ad3b2c790c4f8",
         "type": "split",
         "children": [
           {
@@ -17,22 +17,22 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "作品/kk/KK🇯🇵.md",
+                    "file": "作品/kk/文案.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "KK🇯🇵"
+                  "title": "文案"
                 }
               }
             ]
           },
           {
-            "id": "9750b9798b60b86b",
+            "id": "6e5efaf5ae877611",
             "type": "tabs",
             "children": [
               {
-                "id": "46c0ea5be2fafebe",
+                "id": "40aa816b6fb59535",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -63,7 +63,7 @@
                       },
                       "serial": {
                         "columns": 109,
-                        "data": "eren@erendeMacBook-Air rigennka % cd\r\neren@erendeMacBook-Air rigennka % vim update.sh \r\neren@erendeMacBook-Air rigennka % ls\r\nreadme\u001b[10Cupdate.sh\u001b[7Cz\u001b[15C作品\u001b[12C宅建士\u001b[10C技术\r\neren@erendeMacBook-Air rigennka % ls 作品      \r\nkk\r\neren@erendeMacBook-Air rigennka % ls 作品/kk/\r\nKK🇯🇵.md\u001b[1Ckk.md\u001b[11C文案.md\r\neren@erendeMacBook-Air rigennka % readlink -f 作品/kKK🇯🇵.md \r\n/Users/eren/Desktop/git_workspace/rigennka/作品/kk/KK🇯🇵.md\r\neren@erendeMacBook-Air rigennka % vim update.sh \r\neren@erendeMacBook-Air rigennka % sh",
+                        "data": "eren@erendeMacBook-Air rigennka % cp /Users/eren/Desktop/git_workspace/rigennka/作品/kk/KK🇯🇵.md /Volumes/Kindle/documents/Downloads/kk.txt -f\r\neren@erendeMacBook-Air rigennka % sh update.sh\u001b[1m \u001b[0m",
                         "rows": 22
                       }
                     }
@@ -221,13 +221,16 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "46c0ea5be2fafebe",
+  "active": "40aa816b6fb59535",
   "lastOpenFiles": [
-    "作品/kk/KK🇯🇵.md",
-    "作品/kk/kk.md",
     "作品/kk/文案.md",
-    "作品/kk",
+    "作品/kk/KK🇯🇵.md",
+    "作品/日本人最想住什么样的房子——公寓还是一户建？.md",
+    "作品/kk/kk.md",
+    "z/Pasted image 20250407191124.png",
     "z/tianya_kkndme 1.pdf",
+    "z/Pasted image 20250406161534.png",
+    "作品/kk",
     "技术/mysql/mysql常用命令.md",
     "z/tianya_kkndme.pdf",
     "技术/mongodb/mongodb常用命令.md",
@@ -251,13 +254,9 @@
     "宅建士/宅建業法/宅建業法の基本/免許が不要な団体.md",
     "宅建士/基本/index-基本.md",
     "技术/k8s/cluster/scheduler.md",
-    "技术/k8s/cluster/persistentvolumeclaim（PVC）.md",
-    "技术/k8s/cluster/kubelet的功能、作用是什么.md",
     "宅建士/宅建業法/宅建業法の基本",
     "宅建士/基本",
     "宅建士/宅建業法",
-    "z/Pasted image 20250406161534.png",
-    "z/Pasted image 20250407191124.png",
     "z",
     "技术/k8s/cluster",
     "技术/k8s",
